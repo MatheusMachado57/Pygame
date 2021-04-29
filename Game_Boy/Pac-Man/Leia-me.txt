@@ -1,3 +1,16 @@
 Primeiro dígito -> número de paredes
-Segundo dígito -> comportamento dos monstros
-Terceiro dígito -> posição das paredes
+0 -> Nenhuma
+1 -> Uma
+2 -> Duas
+
+Segundo dígito  -> posição das paredes
+0 -> Nenhuma
+01 -> Horizontal Original
+02 -> Vertical Original
+1? -> Horizontal Modificada
+1? -> Vertical Modificada
+
+Terceiro dígito -> comportamento dos monstros
+0 -> 100% Aleatório
+01 -> Corre atrás quando vê
+02 -> Corre atrás quando está na mesma direção
