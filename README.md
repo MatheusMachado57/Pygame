@@ -1,2 +1,2 @@
 # Pygame
- Pritótipos de jogos feitos no Pygame
+ Protótipos de jogos feitos no Pygame
